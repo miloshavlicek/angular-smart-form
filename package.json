@@ -1,0 +1,30 @@
+{
+  "name": "angular-smart-form",
+  "version": "0.1.0",
+  "description": "Angular 2 / Angualar 4 smart HTML5 form builder / generator.",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miloshavlicek/angular-smart-form.git"
+  },
+  "keywords": [
+    "angular",
+    "form",
+    "formbuilder",
+    "angular2",
+    "angular4",
+    "html5"
+  ],
+  "author": {
+    "name": "Miloš Havlíček",
+    "email": "miloshavlicek@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miloshavlicek/angular-smart-form/issues"
+  },
+  "homepage": "https://github.com/miloshavlicek/angular-smart-form#readme"
+}
